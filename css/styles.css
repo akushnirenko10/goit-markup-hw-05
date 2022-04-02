@@ -237,10 +237,6 @@ img {
 
 /* Benefits */
 
-.section.benefits {
-  padding-bottom: 0;
-}
-
 .benefits-list {
   display: flex;
 }
@@ -279,6 +275,10 @@ img {
 }
 
 /* We do  */
+
+.section.we-do {
+  padding-top: 0;
+}
 
 .we-do-list {
   display: flex;
